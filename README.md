@@ -1,6 +1,6 @@
 # Como fazer commit por linha de comando para automação do Jira funcionar:
 
-# 1 - git status
+## 1 - git status
 # 2 - git add .
 # ou
 # git add (nome_do_arquivo que você quer comitar)
