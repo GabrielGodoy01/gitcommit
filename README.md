@@ -8,5 +8,9 @@
 - git push
 
 # Terminou o projeto?
-- Faça a Pull Request no GitHub e manda mensagem para Guerreiro para aceitar a pr
-- nome da Pull Request: "[FM-2] - Qual PR"
+- Faça a Pull Request no GitHub adicionando os Reviewers (Gabriel Godoy e Daniel Branquinho) e assignes (você)
+- Nome da Pull Request: "[FM-2] - Qual PR"
+- Atualize o seu card do Jira com as horas trabalhadas e print da tela
+- Avise no grupo do wpp Front para Tech Leader aceitar seu código
+- Com o código aceito é passado ao PO aceitar o produto final
+- Modelo de mensagem no wpp: "Aceitar pr [FM-33]: https://github.com/Maua-Dev/System_Maua_Front/pull/75"
