@@ -17,5 +17,5 @@
 # Foi solicitado mudanças?
 - Commit as mudanças no mesmo padrão
 - Solicite a review novamente na PR do Github no botão de refresh:
-[![image](https://user-images.githubusercontent.com/61150821/135380404-63c26f85-25f1-4945-8ec9-4d964344714e.png)]
+- ![image](https://user-images.githubusercontent.com/61150821/135380404-63c26f85-25f1-4945-8ec9-4d964344714e.png)
 - Mande mensagem nesse modelo no wpp: "Aceitar alterações na pr [FM-33]: https://github.com/Maua-Dev/System_Maua_Front/pull/75"
