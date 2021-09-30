@@ -1,5 +1,4 @@
 # Como fazer commit por linha de comando para automação do Jira funcionar:
-
 - git checkout -b feature/FM-2  -> cria (-b) uma nova branch já linkada com o Jira e já muda pra essa branch (checkout)
 - git push --set-upstream origin feature/FM-2  -> pra levar a branch que você criou localmente para o GitHub
 - git status
@@ -14,3 +13,8 @@
 - Avise no grupo do wpp Front para Tech Leader aceitar seu código
 - Com o código aceito é passado ao PO aceitar o produto final
 - Modelo de mensagem no wpp: "Aceitar pr [FM-33]: https://github.com/Maua-Dev/System_Maua_Front/pull/75"
+
+# Foi solicitado mudanças?
+- Commit as mudanças no mesmo padrão
+- Solicite a review na PR do Github
+- Mande mensagem nesse modelo no wpp: "Aceitar alterações na pr [FM-33]: https://github.com/Maua-Dev/System_Maua_Front/pull/75"
